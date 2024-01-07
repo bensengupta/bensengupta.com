@@ -5,7 +5,8 @@ pubDate: 'Jan 10 2024'
 heroImage: '/images/blog-coop-work-term-report-2-wave.jpg'
 ---
 
-This work term report covers my goals & reflections on my second co-op work term at Wave Financial. See Co-op Work Term Report 1 – Wave for my first work term.
+This work term report covers my goals & reflections on my second co-op work term at Wave Financial. See [Co-op Work Term Report 1 – Wave](/blog/wave-summer-2023-coop/) for my first work term.
+
 During my fall co-op term at Wave Financial, I set out to achieve three distinct learning goals aimed at broadening my global understanding and becoming a better problem solver. Each goal focused on specific aspects, including gaining experience in backend development, effectively prioritizing impactful actions, and becoming proficient at reading and understanding unfamiliar code.
 
 #### Goals and learning outcomes
