@@ -1,5 +1,5 @@
 ---
-title: 'Co-op Work Term Report - Wave'
+title: 'Co-op Work Term Report 1 - Wave'
 description: 'Co-op Work Term Report - Summer 2023 - Wave Financial'
 pubDate: 'Sept 04 2023'
 heroImage: '/images/blog-coop-work-term-report-1-wave.jpg'
