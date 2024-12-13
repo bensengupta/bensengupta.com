@@ -1,8 +1,9 @@
 ---
-title: 'Co-op Work Term Report 3 - Wave'
-description: 'Co-op Work Term Report - Summer 2024 - Wave Financial'
-pubDate: 'Sep 11 2024'
-heroImage: '/images/blog-coop-work-term-report-3-wave.jpg'
+layout: post
+title:  "Co-op Work Term Report 3 - Wave"
+date:   2024-09-11 12:00:00 -0500
+categories: co-op wave
+permalink: /blog/wave-summer-2024-coop/
 ---
 
 As a Software Engineer Co-op at [Wave](https://waveapps.com/), a medium-sized company providing invoicing and accounting software for small businesses, I set out to achieve several goals to become a better engineer and contribute to the company's growth. This report outlines my goals and reflections during the work term.
